@@ -1,0 +1,40 @@
+id: 424127a5cfa748969fcaed3b7276a008
+annotation_type: Sabche
+revision: '00001'
+annotations:
+  3ad5ffd3930f49f98ac2d54a5b73e286:
+    span:
+      start: 1270
+      end: 1310
+  14cfa37e6d98421eaf989954d8e3968a:
+    span:
+      start: 1910
+      end: 1939
+  0157641d2dfa40a4878326f7066f2144:
+    span:
+      start: 4599
+      end: 4621
+  578e721eb60b4a2e86ec82ac79ceb554:
+    span:
+      start: 10252
+      end: 10282
+  2fef7c892e1c48f79ee8a91880584575:
+    span:
+      start: 10734
+      end: 10772
+  4c0e23a7082247c28b0e461b35ae99ac:
+    span:
+      start: 11237
+      end: 11275
+  d981299d67944fae93d92e0de82fe121:
+    span:
+      start: 11720
+      end: 11742
+local_ids:
+  3ad5ffd3930f49f98ac2d54a5b73e286: 200000
+  14cfa37e6d98421eaf989954d8e3968a: 200001
+  0157641d2dfa40a4878326f7066f2144: 200002
+  578e721eb60b4a2e86ec82ac79ceb554: 200003
+  2fef7c892e1c48f79ee8a91880584575: 200004
+  4c0e23a7082247c28b0e461b35ae99ac: 200005
+  d981299d67944fae93d92e0de82fe121: 200006

@@ -1,0 +1,23 @@
+id: I99F347E4
+initial_creation_type: ebook
+source_metadata:
+  id: KS-GT-21
+  title: ༄༅། །ཆོས་རྗེ་རྒོད་ཚང་པའི་ཞལ་གྱི་བདུད་རྩི་ཉམས་ལེན་བསྡུས་པའི་སྒྲོན་མེ་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། རྒྱལ་བ་རྒོད་ཚང་པ་མགོན་པོ་རྡོ་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། རྒྱལ་བ་རྒོད་ཚང་པ་མགོན་པོ་རྡོ་རྗེ།
+  sku: KS-GT-21
+  cover: KS_Gotshangpa_Series21.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །ཆོས་རྗེ་རྒོད་ཚང་པའི་ཞལ་གྱི་བདུད་རྩི་ཉམས་ལེན་བསྡུས་པའི་སྒྲོན་མེ་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: KS-GT-21
+  cover: KS_Gotshangpa_Series21.jpg
+layers:
+- Author
+- BookTitle
+- Commentary
+- Sabche

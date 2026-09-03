@@ -1,0 +1,85 @@
+id: 0fecb1c252e24b8eb3099de3ceede7d9
+annotation_type: Commentary
+revision: '00001'
+annotations:
+  06c3a2c61bce45fca45898a3e08d8c08:
+    span:
+      start: 204
+      end: 1267
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  99b67bfeef6147d68e63a70fa22f519c:
+    span:
+      start: 1312
+      end: 1908
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  912a75c9ddcc4955a4c24ab743d9de32:
+    span:
+      start: 1941
+      end: 4596
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  84f97890934d428c8fcc9dffdee4b828:
+    span:
+      start: 4623
+      end: 8856
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  222b51dab8de4bc4b05ee2e16b3348d5:
+    span:
+      start: 8858
+      end: 9903
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  ef9134f710124b6f8febb7ea74867f13:
+    span:
+      start: 9905
+      end: 10250
+    isverse: false
+    metadata:
+      css_class_name: tibetan-regular-indented
+  0c2b9837056d4cf79aacea761adfe622:
+    span:
+      start: 10285
+      end: 10732
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  da615de209374fd78febdf0bea4790f0:
+    span:
+      start: 10775
+      end: 11235
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  2d6f9bfc2f4a4227b00ab8efc9d747fb:
+    span:
+      start: 11278
+      end: 11718
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  03e86547499649acbd575dc2a12469e5:
+    span:
+      start: 11745
+      end: 12594
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+local_ids:
+  06c3a2c61bce45fca45898a3e08d8c08: 200000
+  99b67bfeef6147d68e63a70fa22f519c: 200001
+  912a75c9ddcc4955a4c24ab743d9de32: 200002
+  84f97890934d428c8fcc9dffdee4b828: 200003
+  222b51dab8de4bc4b05ee2e16b3348d5: 200004
+  ef9134f710124b6f8febb7ea74867f13: 200005
+  0c2b9837056d4cf79aacea761adfe622: 200006
+  da615de209374fd78febdf0bea4790f0: 200007
+  2d6f9bfc2f4a4227b00ab8efc9d747fb: 200008
+  03e86547499649acbd575dc2a12469e5: 200009
